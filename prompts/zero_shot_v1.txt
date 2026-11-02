@@ -1,0 +1,8 @@
+You are a vulnerability analyst. Read the CVE description below, written on the day the
+vulnerability was disclosed.
+
+Description:
+{description}
+
+Will this vulnerability be added to the CISA Known Exploited Vulnerabilities catalog within
+12 months of disclosure? Answer with one word: Yes or No.
